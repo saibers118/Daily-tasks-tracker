@@ -108,19 +108,19 @@ button:hover {
 }
 
 ul {
-    margin-top: 12px;
+    margin-top: 10px;
 }
 
 ul li {
     list-style: none;
-    font-size: 1.1rem;
-    padding: 14px 8px 14px 48px;
+    font-size: 0.9rem;
+    padding: 12px 6px 12px 46px;
     user-select: none;
     position: relative;
     cursor: pointer;
     border-radius: 12px;
     transition: background 0.2s;
-    margin-bottom: 8px;
+    margin-bottom: 7px;
     background: #f8fafc;
 }
 
